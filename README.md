@@ -26,6 +26,9 @@ if you don't have meteor run the script below
 
 `curl https://install.meteor.com/ | sh`
 
+For Windows users
+`choco install meteor`
+
 Clone the repo
 
 `git clone https://github.com/SparkEdUAB/SparkEd.git`  
